@@ -19,20 +19,7 @@ To perform end-to-end **exploratory data analysis** using SQL to answer key busi
 
 - **SQL** (MySQL)  
 - **DBMS** – Workbench
-- **Excel** – Initial data view & validation (optional)
-
----
-
-## 📁 Project Structure
-
-```
-Pizzahut/
-│
-├── pizzahut_sales_data.csv
-├── analysis_queries.sql
-├── insights.md
-└── README.md
-```
+- **Excel** – Initial data view & validation
 
 ---
 
