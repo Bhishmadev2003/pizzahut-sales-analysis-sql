@@ -18,7 +18,7 @@ To perform end-to-end **exploratory data analysis** using SQL to answer key busi
 ## 🛠️ Tools & Technologies
 
 - **SQL** (MySQL)  
-- **DBMS** – Workbench
+- **DBMS** – Workbench  
 - **Excel** – Initial data view & validation
 
 ---
@@ -54,8 +54,13 @@ LIMIT 5;
 
 ---
 
+## 🔗 View Project
+
+👉 [**View on GitHub**](https://github.com/Bhishmadev2003/pizzahut-sales-analysis-sql)
+
+---
+
 ## 📬 Connect with Me
 
 **Bhishmadev Naskar**  
 📧 [LinkedIn](https://www.linkedin.com/in/bhishmadevnaskar/)
-
